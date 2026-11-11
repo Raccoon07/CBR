@@ -6,7 +6,7 @@ import time
 import discord
 from discord.ext import commands
 
-TOKEN = "TON_TOKEN_ICI"  # Ne le partage jamais !
+TOKEN = "MTU3MDE0MDYwMTQ5MDM1MDM2NA.GXnMj6.8sKsrKp0cS3eOztMnTnf0P6wF8-gqLm97SQX2U"  # Ne le partage jamais !
 DUREE = 30 * 60  # 30 minutes (en secondes)
 FICHIER = "timers.json"
 
